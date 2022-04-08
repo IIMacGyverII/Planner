@@ -1,5 +1,5 @@
 README.md
-This was a homework project was to create a quiz with html and javascript.  It was very difficult.  I had to start completely over several times and I can do better.
+This was a homework project was to create a planner with html and javascript.  
 
 Link to project repo: https://github.com/IIMacGyverII/Planner
 Link to project page: https://iimacgyverii.github.io/Planner/
